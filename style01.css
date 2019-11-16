@@ -1,0 +1,55 @@
+.jumbotron {
+    background-image: url(img/pic2.png);
+    background-size: cover;
+    height: 750px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.jumbotron .display-4 {
+    color: snow;
+    margin-top: 300px;
+}
+
+.carousel-item {
+    height: 657px;
+}
+
+.carousel-item {
+    margin-top: -30px;
+}
+
+.carousel-item .btn {
+    background-color: darkred;
+    border: none;
+    border-radius: 25px;
+    margin-top: 25px;
+    font-size: 12pt;
+    text-align: center;
+}
+
+.carousel-item hr {
+    border-color: darkred;
+    width: 100px;
+    border-width: 5px;
+}
+
+.carousel-item .display-4 {
+    margin-top: -275px;
+}
+
+.carousel-caption .display-4 {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.carousel-caption img {
+    margin-top: -700px;
+}
+
+.carousel-caption img {
+    width: 150px;
+    height: 150px;
+}
+
+
+
